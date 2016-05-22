@@ -25,7 +25,7 @@ class FAQ extends JFrame
 		screenHandler = new ScreenHandler();
     		
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        this.setTitle("Fantasy Adventure Quest");
+        this.setTitle("Fantasy Adventure Quest!");
         this.setResizable(false);
         this.setFocusTraversalKeysEnabled(false);
 
